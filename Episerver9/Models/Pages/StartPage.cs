@@ -11,6 +11,6 @@ namespace Episerver9.Models.Pages
     public class StartPage : PageData
     {
         public virtual string Heading { get; set; } 
-        public virtual XhtmlString MainBody { get; set; }  
+        public virtual XhtmlString MainBody { get; set; }   
     }
 }
